@@ -13,9 +13,11 @@ public class Weapons : ScriptableObject
     public int damage;
     public float fireRate;
     public AudioClip sound;
+    //public string weaponName;
+    // public Sprite weaponImage;
 
 
 }
-    
-    
+
+
 
