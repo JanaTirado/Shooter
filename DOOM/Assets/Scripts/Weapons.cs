@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 [CreateAssetMenu(fileName = "New Weapon", menuName = "Weapon/New Weapon")]
-public class WeaponSO : ScriptableObject
+public class Weapons : ScriptableObject
 
 {
     public float range;
